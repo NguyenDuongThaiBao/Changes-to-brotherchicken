@@ -6,5 +6,7 @@
 
 -> folder UI: sửa placeorderpanel, thêm billframe (frame khi bấm nút order&print), thêm trang viewbill
 
+-> folder Model: thêm bill và bill_item
+
 -> tạo thêm folder tên DAO: thêm file BillDao, BillItemDao vào (cái này chứa code sql)
 
